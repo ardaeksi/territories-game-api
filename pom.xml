@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.canarda.readiness</groupId>
-	<artifactId>personnel-readiness-api</artifactId>
+	<artifactId>territories-game-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>personnel-readiness-api</name>
-	<description>Simulated military personnel readiness and assignment tracking system (Spring Boot demo)</description>
+	<name>territories-game-api</name>
+	<description>Risk-style territory conquest game backend: adjacency-based claiming, resources, and (eventually) soldiers and war</description>
 	<url/>
 	<licenses>
 		<license/>
