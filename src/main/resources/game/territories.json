@@ -1,0 +1,2024 @@
+[
+  {
+    "countryId": "242",
+    "countryName": "Fiji",
+    "centroidLat": -17.31504815749131,
+    "centroidLng": 178.56893652314392,
+    "neighborCountryIds": []
+  },
+  {
+    "countryId": "834",
+    "countryName": "Tanzania",
+    "centroidLat": -6.250659245687626,
+    "centroidLng": 34.74173041609096,
+    "neighborCountryIds": [
+      "180",
+      "404",
+      "894",
+      "454",
+      "508",
+      "108",
+      "800",
+      "646"
+    ]
+  },
+  {
+    "countryId": "732",
+    "countryName": "W. Sahara",
+    "centroidLat": 24.278187611265896,
+    "centroidLng": -12.18607386518645,
+    "neighborCountryIds": [
+      "478",
+      "012",
+      "504"
+    ]
+  },
+  {
+    "countryId": "124",
+    "countryName": "Canada",
+    "centroidLat": 60.47689319168129,
+    "centroidLng": -96.39596521119846,
+    "neighborCountryIds": [
+      "840"
+    ]
+  },
+  {
+    "countryId": "840",
+    "countryName": "United States of America",
+    "centroidLat": 44.75573007084505,
+    "centroidLng": -103.57252852801429,
+    "neighborCountryIds": [
+      "124",
+      "484"
+    ]
+  },
+  {
+    "countryId": "398",
+    "countryName": "Kazakhstan",
+    "centroidLat": 48.40585039153326,
+    "centroidLng": 67.23568238185361,
+    "neighborCountryIds": [
+      "860",
+      "643",
+      "417",
+      "795",
+      "156"
+    ]
+  },
+  {
+    "countryId": "860",
+    "countryName": "Uzbekistan",
+    "centroidLat": 41.77113926946658,
+    "centroidLng": 63.36503414799328,
+    "neighborCountryIds": [
+      "398",
+      "004",
+      "762",
+      "417",
+      "795"
+    ]
+  },
+  {
+    "countryId": "598",
+    "countryName": "Papua New Guinea",
+    "centroidLat": -6.457287233080053,
+    "centroidLng": 145.3134835731396,
+    "neighborCountryIds": [
+      "360"
+    ]
+  },
+  {
+    "countryId": "360",
+    "countryName": "Indonesia",
+    "centroidLat": -2.2718744795703945,
+    "centroidLng": 117.36464278135101,
+    "neighborCountryIds": [
+      "598",
+      "626",
+      "458"
+    ]
+  },
+  {
+    "countryId": "032",
+    "countryName": "Argentina",
+    "centroidLat": -34.736621632215964,
+    "centroidLng": -64.75429424155682,
+    "neighborCountryIds": [
+      "152",
+      "858",
+      "076",
+      "068",
+      "600"
+    ]
+  },
+  {
+    "countryId": "152",
+    "countryName": "Chile",
+    "centroidLat": -37.31091190683756,
+    "centroidLng": -71.17789122485415,
+    "neighborCountryIds": [
+      "032",
+      "068",
+      "604"
+    ]
+  },
+  {
+    "countryId": "180",
+    "countryName": "Dem. Rep. Congo",
+    "centroidLat": -2.838657289105749,
+    "centroidLng": 23.57677487644107,
+    "neighborCountryIds": [
+      "834",
+      "140",
+      "178",
+      "894",
+      "024",
+      "108",
+      "800",
+      "646",
+      "728"
+    ]
+  },
+  {
+    "countryId": "706",
+    "countryName": "Somalia",
+    "centroidLat": 4.74148343627302,
+    "centroidLng": 45.69948397150603,
+    "neighborCountryIds": [
+      "404",
+      "231",
+      "name-somaliland"
+    ]
+  },
+  {
+    "countryId": "404",
+    "countryName": "Kenya",
+    "centroidLat": 0.595504521462854,
+    "centroidLng": 37.79137160957355,
+    "neighborCountryIds": [
+      "834",
+      "706",
+      "231",
+      "800",
+      "728"
+    ]
+  },
+  {
+    "countryId": "729",
+    "countryName": "Sudan",
+    "centroidLat": 15.971614772036359,
+    "centroidLng": 29.83062274765237,
+    "neighborCountryIds": [
+      "148",
+      "140",
+      "232",
+      "818",
+      "434",
+      "231",
+      "728"
+    ]
+  },
+  {
+    "countryId": "148",
+    "countryName": "Chad",
+    "centroidLat": 15.276051828357305,
+    "centroidLng": 18.57378521873008,
+    "neighborCountryIds": [
+      "729",
+      "562",
+      "120",
+      "140",
+      "434"
+    ]
+  },
+  {
+    "countryId": "332",
+    "countryName": "Haiti",
+    "centroidLat": 18.900261803200927,
+    "centroidLng": -72.65906040585877,
+    "neighborCountryIds": [
+      "214"
+    ]
+  },
+  {
+    "countryId": "214",
+    "countryName": "Dominican Rep.",
+    "centroidLat": 18.885420716111305,
+    "centroidLng": -70.46185863870569,
+    "neighborCountryIds": [
+      "332"
+    ]
+  },
+  {
+    "countryId": "643",
+    "countryName": "Russia",
+    "centroidLat": 66.06782669636499,
+    "centroidLng": 95.78533375304583,
+    "neighborCountryIds": [
+      "398",
+      "578",
+      "408",
+      "496",
+      "112",
+      "804",
+      "616",
+      "440",
+      "428",
+      "233",
+      "156",
+      "031",
+      "268",
+      "246"
+    ]
+  },
+  {
+    "countryId": "044",
+    "countryName": "Bahamas",
+    "centroidLat": 25.506570940733177,
+    "centroidLng": -77.92798394733224,
+    "neighborCountryIds": []
+  },
+  {
+    "countryId": "238",
+    "countryName": "Falkland Is.",
+    "centroidLat": -51.71627009973495,
+    "centroidLng": -59.415851844252785,
+    "neighborCountryIds": []
+  },
+  {
+    "countryId": "578",
+    "countryName": "Norway",
+    "centroidLat": 66.64824315415278,
+    "centroidLng": 12.82926547618235,
+    "neighborCountryIds": [
+      "643",
+      "752",
+      "246"
+    ]
+  },
+  {
+    "countryId": "304",
+    "countryName": "Greenland",
+    "centroidLat": 73.15074181673789,
+    "centroidLng": -41.96489665506525,
+    "neighborCountryIds": []
+  },
+  {
+    "countryId": "260",
+    "countryName": "Fr. S. Antarctic Lands",
+    "centroidLat": -49.30702018723928,
+    "centroidLng": 69.5308950742775,
+    "neighborCountryIds": []
+  },
+  {
+    "countryId": "626",
+    "countryName": "Timor-Leste",
+    "centroidLat": -8.767879046921914,
+    "centroidLng": 125.96733709201654,
+    "neighborCountryIds": [
+      "360"
+    ]
+  },
+  {
+    "countryId": "710",
+    "countryName": "South Africa",
+    "centroidLat": -28.92325013043891,
+    "centroidLng": 25.158116601813372,
+    "neighborCountryIds": [
+      "426",
+      "716",
+      "072",
+      "516",
+      "508",
+      "748"
+    ]
+  },
+  {
+    "countryId": "426",
+    "countryName": "Lesotho",
+    "centroidLat": -29.624638503533284,
+    "centroidLng": 28.171555522078112,
+    "neighborCountryIds": [
+      "710"
+    ]
+  },
+  {
+    "countryId": "484",
+    "countryName": "Mexico",
+    "centroidLat": 23.913416451541593,
+    "centroidLng": -102.22312784904646,
+    "neighborCountryIds": [
+      "840",
+      "320",
+      "084"
+    ]
+  },
+  {
+    "countryId": "858",
+    "countryName": "Uruguay",
+    "centroidLat": -32.77378565042608,
+    "centroidLng": -56.0098770401033,
+    "neighborCountryIds": [
+      "032",
+      "076"
+    ]
+  },
+  {
+    "countryId": "076",
+    "countryName": "Brazil",
+    "centroidLat": -10.6554749187722,
+    "centroidLng": -53.172527779720134,
+    "neighborCountryIds": [
+      "032",
+      "858",
+      "068",
+      "604",
+      "170",
+      "862",
+      "328",
+      "740",
+      "250",
+      "600"
+    ]
+  },
+  {
+    "countryId": "068",
+    "countryName": "Bolivia",
+    "centroidLat": -16.703909810404912,
+    "centroidLng": -64.65468685243751,
+    "neighborCountryIds": [
+      "032",
+      "152",
+      "076",
+      "604",
+      "600"
+    ]
+  },
+  {
+    "countryId": "604",
+    "countryName": "Peru",
+    "centroidLat": -9.147133411380075,
+    "centroidLng": -74.43056901477348,
+    "neighborCountryIds": [
+      "152",
+      "076",
+      "068",
+      "170",
+      "218"
+    ]
+  },
+  {
+    "countryId": "170",
+    "countryName": "Colombia",
+    "centroidLat": 3.9163468591418087,
+    "centroidLng": -73.07345714315181,
+    "neighborCountryIds": [
+      "076",
+      "604",
+      "591",
+      "862",
+      "218"
+    ]
+  },
+  {
+    "countryId": "591",
+    "countryName": "Panama",
+    "centroidLat": 8.532626555780435,
+    "centroidLng": -80.10925094669992,
+    "neighborCountryIds": [
+      "170",
+      "188"
+    ]
+  },
+  {
+    "countryId": "188",
+    "countryName": "Costa Rica",
+    "centroidLat": 9.965837710986856,
+    "centroidLng": -84.1734639009167,
+    "neighborCountryIds": [
+      "591",
+      "558"
+    ]
+  },
+  {
+    "countryId": "558",
+    "countryName": "Nicaragua",
+    "centroidLat": 12.846636906615657,
+    "centroidLng": -85.02148399862018,
+    "neighborCountryIds": [
+      "188",
+      "340"
+    ]
+  },
+  {
+    "countryId": "340",
+    "countryName": "Honduras",
+    "centroidLat": 14.825126033905285,
+    "centroidLng": -86.5928338545046,
+    "neighborCountryIds": [
+      "558",
+      "222",
+      "320"
+    ]
+  },
+  {
+    "countryId": "222",
+    "countryName": "El Salvador",
+    "centroidLat": 13.726209872261462,
+    "centroidLng": -88.87191160917233,
+    "neighborCountryIds": [
+      "340",
+      "320"
+    ]
+  },
+  {
+    "countryId": "320",
+    "countryName": "Guatemala",
+    "centroidLat": 15.696073861022391,
+    "centroidLng": -90.37169443008953,
+    "neighborCountryIds": [
+      "484",
+      "340",
+      "222",
+      "084"
+    ]
+  },
+  {
+    "countryId": "084",
+    "countryName": "Belize",
+    "centroidLat": 17.1947108110114,
+    "centroidLng": -88.70377666806235,
+    "neighborCountryIds": [
+      "484",
+      "320"
+    ]
+  },
+  {
+    "countryId": "862",
+    "countryName": "Venezuela",
+    "centroidLat": 7.160800541498007,
+    "centroidLng": -66.15319386889263,
+    "neighborCountryIds": [
+      "076",
+      "170",
+      "328"
+    ]
+  },
+  {
+    "countryId": "328",
+    "countryName": "Guyana",
+    "centroidLat": 4.7860844635240625,
+    "centroidLng": -58.96940684277811,
+    "neighborCountryIds": [
+      "076",
+      "862",
+      "740"
+    ]
+  },
+  {
+    "countryId": "740",
+    "countryName": "Suriname",
+    "centroidLat": 4.119699529743588,
+    "centroidLng": -55.91146172923425,
+    "neighborCountryIds": [
+      "076",
+      "328",
+      "250"
+    ]
+  },
+  {
+    "countryId": "250",
+    "countryName": "France",
+    "centroidLat": 43.14028215881337,
+    "centroidLng": -6.801574616743793,
+    "neighborCountryIds": [
+      "076",
+      "740",
+      "276",
+      "756",
+      "442",
+      "056",
+      "724",
+      "380"
+    ]
+  },
+  {
+    "countryId": "218",
+    "countryName": "Ecuador",
+    "centroidLat": -1.4544335502342323,
+    "centroidLng": -78.38369518037301,
+    "neighborCountryIds": [
+      "604",
+      "170"
+    ]
+  },
+  {
+    "countryId": "630",
+    "countryName": "Puerto Rico",
+    "centroidLat": 18.238007898653617,
+    "centroidLng": -66.47905702647654,
+    "neighborCountryIds": []
+  },
+  {
+    "countryId": "388",
+    "countryName": "Jamaica",
+    "centroidLat": 18.13834993339306,
+    "centroidLng": -77.3242833360015,
+    "neighborCountryIds": []
+  },
+  {
+    "countryId": "192",
+    "countryName": "Cuba",
+    "centroidLat": 21.647273803320633,
+    "centroidLng": -78.93178529323538,
+    "neighborCountryIds": []
+  },
+  {
+    "countryId": "716",
+    "countryName": "Zimbabwe",
+    "centroidLat": -18.900273572780492,
+    "centroidLng": 29.78858348282732,
+    "neighborCountryIds": [
+      "710",
+      "072",
+      "894",
+      "508"
+    ]
+  },
+  {
+    "countryId": "072",
+    "countryName": "Botswana",
+    "centroidLat": -22.082329750830137,
+    "centroidLng": 23.783026621565995,
+    "neighborCountryIds": [
+      "710",
+      "716",
+      "516",
+      "894"
+    ]
+  },
+  {
+    "countryId": "516",
+    "countryName": "Namibia",
+    "centroidLat": -22.040120721139512,
+    "centroidLng": 17.142187820423352,
+    "neighborCountryIds": [
+      "710",
+      "072",
+      "894",
+      "024"
+    ]
+  },
+  {
+    "countryId": "686",
+    "countryName": "Senegal",
+    "centroidLat": 14.353596783110603,
+    "centroidLng": -14.505963735176849,
+    "neighborCountryIds": [
+      "466",
+      "478",
+      "324",
+      "624",
+      "270"
+    ]
+  },
+  {
+    "countryId": "466",
+    "countryName": "Mali",
+    "centroidLat": 17.240422151001496,
+    "centroidLng": -3.5929264607867344,
+    "neighborCountryIds": [
+      "686",
+      "478",
+      "562",
+      "384",
+      "324",
+      "854",
+      "012"
+    ]
+  },
+  {
+    "countryId": "478",
+    "countryName": "Mauritania",
+    "centroidLat": 20.180316183391973,
+    "centroidLng": -10.348677416082428,
+    "neighborCountryIds": [
+      "732",
+      "686",
+      "466",
+      "012"
+    ]
+  },
+  {
+    "countryId": "204",
+    "countryName": "Benin",
+    "centroidLat": 9.642306963005444,
+    "centroidLng": 2.3364334648703755,
+    "neighborCountryIds": [
+      "562",
+      "566",
+      "768",
+      "854"
+    ]
+  },
+  {
+    "countryId": "562",
+    "countryName": "Niger",
+    "centroidLat": 17.340374170519883,
+    "centroidLng": 9.274701830040073,
+    "neighborCountryIds": [
+      "148",
+      "466",
+      "204",
+      "566",
+      "120",
+      "854",
+      "012",
+      "434"
+    ]
+  },
+  {
+    "countryId": "566",
+    "countryName": "Nigeria",
+    "centroidLat": 9.544611591809016,
+    "centroidLng": 7.985765714993629,
+    "neighborCountryIds": [
+      "204",
+      "562",
+      "120"
+    ]
+  },
+  {
+    "countryId": "120",
+    "countryName": "Cameroon",
+    "centroidLat": 5.654325259855498,
+    "centroidLng": 12.605967962806472,
+    "neighborCountryIds": [
+      "148",
+      "562",
+      "566",
+      "140",
+      "178",
+      "266",
+      "226"
+    ]
+  },
+  {
+    "countryId": "768",
+    "countryName": "Togo",
+    "centroidLat": 8.434634819184804,
+    "centroidLng": 0.9981293836693488,
+    "neighborCountryIds": [
+      "204",
+      "288",
+      "854"
+    ]
+  },
+  {
+    "countryId": "288",
+    "countryName": "Ghana",
+    "centroidLat": 7.923471570231706,
+    "centroidLng": -1.2370763863815333,
+    "neighborCountryIds": [
+      "768",
+      "384",
+      "854"
+    ]
+  },
+  {
+    "countryId": "384",
+    "countryName": "Côte d'Ivoire",
+    "centroidLat": 7.551542611587612,
+    "centroidLng": -5.6118596115146016,
+    "neighborCountryIds": [
+      "466",
+      "288",
+      "324",
+      "430",
+      "854"
+    ]
+  },
+  {
+    "countryId": "324",
+    "countryName": "Guinea",
+    "centroidLat": 10.450014036050117,
+    "centroidLng": -11.055196197027318,
+    "neighborCountryIds": [
+      "686",
+      "466",
+      "384",
+      "624",
+      "430",
+      "694"
+    ]
+  },
+  {
+    "countryId": "624",
+    "countryName": "Guinea-Bissau",
+    "centroidLat": 12.024038012408404,
+    "centroidLng": -15.110392864548576,
+    "neighborCountryIds": [
+      "686",
+      "324"
+    ]
+  },
+  {
+    "countryId": "430",
+    "countryName": "Liberia",
+    "centroidLat": 6.43027308451388,
+    "centroidLng": -9.408620608546414,
+    "neighborCountryIds": [
+      "384",
+      "324",
+      "694"
+    ]
+  },
+  {
+    "countryId": "694",
+    "countryName": "Sierra Leone",
+    "centroidLat": 8.529896051741154,
+    "centroidLng": -11.795383449912269,
+    "neighborCountryIds": [
+      "324",
+      "430"
+    ]
+  },
+  {
+    "countryId": "854",
+    "countryName": "Burkina Faso",
+    "centroidLat": 12.31295007840512,
+    "centroidLng": -1.7827610045784543,
+    "neighborCountryIds": [
+      "466",
+      "204",
+      "562",
+      "768",
+      "288",
+      "384"
+    ]
+  },
+  {
+    "countryId": "140",
+    "countryName": "Central African Rep.",
+    "centroidLat": 6.546760195132757,
+    "centroidLng": 20.367667865493242,
+    "neighborCountryIds": [
+      "180",
+      "729",
+      "148",
+      "120",
+      "178",
+      "728"
+    ]
+  },
+  {
+    "countryId": "178",
+    "countryName": "Congo",
+    "centroidLat": -0.8366679709430046,
+    "centroidLng": 15.136018192660343,
+    "neighborCountryIds": [
+      "180",
+      "120",
+      "140",
+      "266",
+      "024"
+    ]
+  },
+  {
+    "countryId": "266",
+    "countryName": "Gabon",
+    "centroidLat": -0.6468832071208366,
+    "centroidLng": 11.687429649125713,
+    "neighborCountryIds": [
+      "120",
+      "178",
+      "226"
+    ]
+  },
+  {
+    "countryId": "226",
+    "countryName": "Eq. Guinea",
+    "centroidLat": 1.6463619203400401,
+    "centroidLng": 10.365692891756174,
+    "neighborCountryIds": [
+      "120",
+      "266"
+    ]
+  },
+  {
+    "countryId": "894",
+    "countryName": "Zambia",
+    "centroidLat": -13.393024396329842,
+    "centroidLng": 27.761320995528724,
+    "neighborCountryIds": [
+      "834",
+      "180",
+      "716",
+      "072",
+      "516",
+      "454",
+      "508",
+      "024"
+    ]
+  },
+  {
+    "countryId": "454",
+    "countryName": "Malawi",
+    "centroidLat": -13.159247983782143,
+    "centroidLng": 34.186025820422806,
+    "neighborCountryIds": [
+      "834",
+      "894",
+      "508"
+    ]
+  },
+  {
+    "countryId": "508",
+    "countryName": "Mozambique",
+    "centroidLat": -17.15408177172942,
+    "centroidLng": 35.54224341292384,
+    "neighborCountryIds": [
+      "834",
+      "710",
+      "716",
+      "894",
+      "454",
+      "748"
+    ]
+  },
+  {
+    "countryId": "748",
+    "countryName": "eSwatini",
+    "centroidLat": -26.48961036713719,
+    "centroidLng": 31.395057294837454,
+    "neighborCountryIds": [
+      "710",
+      "508"
+    ]
+  },
+  {
+    "countryId": "024",
+    "countryName": "Angola",
+    "centroidLat": -12.225613614982333,
+    "centroidLng": 17.46501490051317,
+    "neighborCountryIds": [
+      "180",
+      "516",
+      "178",
+      "894"
+    ]
+  },
+  {
+    "countryId": "108",
+    "countryName": "Burundi",
+    "centroidLat": -3.3776956312361057,
+    "centroidLng": 29.91403682471914,
+    "neighborCountryIds": [
+      "834",
+      "180",
+      "646"
+    ]
+  },
+  {
+    "countryId": "376",
+    "countryName": "Israel",
+    "centroidLat": 31.479074944386973,
+    "centroidLng": 35.00098872102661,
+    "neighborCountryIds": [
+      "422",
+      "275",
+      "400",
+      "760",
+      "818"
+    ]
+  },
+  {
+    "countryId": "422",
+    "countryName": "Lebanon",
+    "centroidLat": 33.91020649639143,
+    "centroidLng": 35.86843689863866,
+    "neighborCountryIds": [
+      "376",
+      "760"
+    ]
+  },
+  {
+    "countryId": "450",
+    "countryName": "Madagascar",
+    "centroidLat": -19.30122677471851,
+    "centroidLng": 46.729373695196344,
+    "neighborCountryIds": []
+  },
+  {
+    "countryId": "275",
+    "countryName": "Palestine",
+    "centroidLat": 31.9398243596657,
+    "centroidLng": 35.272787311818156,
+    "neighborCountryIds": [
+      "376",
+      "400"
+    ]
+  },
+  {
+    "countryId": "270",
+    "countryName": "Gambia",
+    "centroidLat": 13.476739304475803,
+    "centroidLng": -15.432659224733518,
+    "neighborCountryIds": [
+      "686"
+    ]
+  },
+  {
+    "countryId": "788",
+    "countryName": "Tunisia",
+    "centroidLat": 34.143848258453716,
+    "centroidLng": 9.538671404378636,
+    "neighborCountryIds": [
+      "012",
+      "434"
+    ]
+  },
+  {
+    "countryId": "012",
+    "countryName": "Algeria",
+    "centroidLat": 28.0854809639131,
+    "centroidLng": 2.6119652341604183,
+    "neighborCountryIds": [
+      "732",
+      "466",
+      "478",
+      "562",
+      "788",
+      "504",
+      "434"
+    ]
+  },
+  {
+    "countryId": "400",
+    "countryName": "Jordan",
+    "centroidLat": 31.24021662821758,
+    "centroidLng": 36.766332796853156,
+    "neighborCountryIds": [
+      "376",
+      "275",
+      "368",
+      "760",
+      "682"
+    ]
+  },
+  {
+    "countryId": "784",
+    "countryName": "United Arab Emirates",
+    "centroidLat": 23.871010109259696,
+    "centroidLng": 54.20044722922346,
+    "neighborCountryIds": [
+      "512",
+      "682"
+    ]
+  },
+  {
+    "countryId": "634",
+    "countryName": "Qatar",
+    "centroidLat": 25.320983229049347,
+    "centroidLng": 51.1838446696885,
+    "neighborCountryIds": [
+      "682"
+    ]
+  },
+  {
+    "countryId": "414",
+    "countryName": "Kuwait",
+    "centroidLat": 29.30717382955798,
+    "centroidLng": 47.600841125608405,
+    "neighborCountryIds": [
+      "368",
+      "682"
+    ]
+  },
+  {
+    "countryId": "368",
+    "countryName": "Iraq",
+    "centroidLat": 33.009692831957,
+    "centroidLng": 43.78694947477871,
+    "neighborCountryIds": [
+      "400",
+      "414",
+      "364",
+      "760",
+      "792",
+      "682"
+    ]
+  },
+  {
+    "countryId": "512",
+    "countryName": "Oman",
+    "centroidLat": 20.59154269923336,
+    "centroidLng": 56.0677392947901,
+    "neighborCountryIds": [
+      "784",
+      "887",
+      "682"
+    ]
+  },
+  {
+    "countryId": "548",
+    "countryName": "Vanuatu",
+    "centroidLat": -15.542284969181424,
+    "centroidLng": 167.0729405158768,
+    "neighborCountryIds": []
+  },
+  {
+    "countryId": "116",
+    "countryName": "Cambodia",
+    "centroidLat": 12.684927562145091,
+    "centroidLng": 104.87409804573856,
+    "neighborCountryIds": [
+      "764",
+      "418",
+      "704"
+    ]
+  },
+  {
+    "countryId": "764",
+    "countryName": "Thailand",
+    "centroidLat": 14.980675302013053,
+    "centroidLng": 101.00248599581612,
+    "neighborCountryIds": [
+      "116",
+      "418",
+      "104",
+      "458"
+    ]
+  },
+  {
+    "countryId": "418",
+    "countryName": "Laos",
+    "centroidLat": 18.430864535001426,
+    "centroidLng": 103.78720209034563,
+    "neighborCountryIds": [
+      "116",
+      "764",
+      "104",
+      "704",
+      "156"
+    ]
+  },
+  {
+    "countryId": "104",
+    "countryName": "Myanmar",
+    "centroidLat": 20.944799841822928,
+    "centroidLng": 96.51319759040699,
+    "neighborCountryIds": [
+      "764",
+      "418",
+      "356",
+      "050",
+      "156"
+    ]
+  },
+  {
+    "countryId": "704",
+    "countryName": "Vietnam",
+    "centroidLat": 16.55555147497658,
+    "centroidLng": 106.33291978713162,
+    "neighborCountryIds": [
+      "116",
+      "418",
+      "156"
+    ]
+  },
+  {
+    "countryId": "408",
+    "countryName": "North Korea",
+    "centroidLat": 40.1297243062498,
+    "centroidLng": 127.13083425052875,
+    "neighborCountryIds": [
+      "643",
+      "408",
+      "410",
+      "156"
+    ]
+  },
+  {
+    "countryId": "410",
+    "countryName": "South Korea",
+    "centroidLat": 36.418657448570634,
+    "centroidLng": 127.81993152429597,
+    "neighborCountryIds": [
+      "408"
+    ]
+  },
+  {
+    "countryId": "496",
+    "countryName": "Mongolia",
+    "centroidLat": 46.95419911477369,
+    "centroidLng": 103.01565952926065,
+    "neighborCountryIds": [
+      "643",
+      "156"
+    ]
+  },
+  {
+    "countryId": "356",
+    "countryName": "India",
+    "centroidLat": 22.819169766905116,
+    "centroidLng": 79.53991712385177,
+    "neighborCountryIds": [
+      "104",
+      "050",
+      "064",
+      "524",
+      "586",
+      "156"
+    ]
+  },
+  {
+    "countryId": "050",
+    "countryName": "Bangladesh",
+    "centroidLat": 23.83388512678864,
+    "centroidLng": 90.27633888995999,
+    "neighborCountryIds": [
+      "104",
+      "356"
+    ]
+  },
+  {
+    "countryId": "064",
+    "countryName": "Bhutan",
+    "centroidLat": 27.42955969804518,
+    "centroidLng": 90.47333990862937,
+    "neighborCountryIds": [
+      "356",
+      "156"
+    ]
+  },
+  {
+    "countryId": "524",
+    "countryName": "Nepal",
+    "centroidLat": 28.248958231527833,
+    "centroidLng": 84.04345054999912,
+    "neighborCountryIds": [
+      "356",
+      "156"
+    ]
+  },
+  {
+    "countryId": "586",
+    "countryName": "Pakistan",
+    "centroidLat": 29.90821391826716,
+    "centroidLng": 69.23497895799804,
+    "neighborCountryIds": [
+      "356",
+      "004",
+      "364",
+      "156"
+    ]
+  },
+  {
+    "countryId": "004",
+    "countryName": "Afghanistan",
+    "centroidLat": 33.84034880613984,
+    "centroidLng": 66.00378286433504,
+    "neighborCountryIds": [
+      "860",
+      "586",
+      "762",
+      "795",
+      "364",
+      "156"
+    ]
+  },
+  {
+    "countryId": "762",
+    "countryName": "Tajikistan",
+    "centroidLat": 38.58915974006616,
+    "centroidLng": 71.04768548480315,
+    "neighborCountryIds": [
+      "860",
+      "004",
+      "417",
+      "156"
+    ]
+  },
+  {
+    "countryId": "417",
+    "countryName": "Kyrgyzstan",
+    "centroidLat": 41.518710446172456,
+    "centroidLng": 74.58707165651103,
+    "neighborCountryIds": [
+      "398",
+      "860",
+      "762",
+      "156"
+    ]
+  },
+  {
+    "countryId": "795",
+    "countryName": "Turkmenistan",
+    "centroidLat": 39.10215746689576,
+    "centroidLng": 59.3484276577152,
+    "neighborCountryIds": [
+      "398",
+      "860",
+      "004",
+      "364"
+    ]
+  },
+  {
+    "countryId": "364",
+    "countryName": "Iran",
+    "centroidLat": 32.474135914851075,
+    "centroidLng": 54.45297488708861,
+    "neighborCountryIds": [
+      "368",
+      "586",
+      "004",
+      "795",
+      "051",
+      "792",
+      "031"
+    ]
+  },
+  {
+    "countryId": "760",
+    "countryName": "Syria",
+    "centroidLat": 35.00851139130995,
+    "centroidLng": 38.52344399319117,
+    "neighborCountryIds": [
+      "376",
+      "422",
+      "400",
+      "368",
+      "792"
+    ]
+  },
+  {
+    "countryId": "051",
+    "countryName": "Armenia",
+    "centroidLat": 40.21443732361939,
+    "centroidLng": 45.00957332920173,
+    "neighborCountryIds": [
+      "364",
+      "792",
+      "031",
+      "268"
+    ]
+  },
+  {
+    "countryId": "752",
+    "countryName": "Sweden",
+    "centroidLat": 62.41852307231613,
+    "centroidLng": 16.109057778672746,
+    "neighborCountryIds": [
+      "578",
+      "246"
+    ]
+  },
+  {
+    "countryId": "112",
+    "countryName": "Belarus",
+    "centroidLat": 53.495244860784396,
+    "centroidLng": 27.96493659159701,
+    "neighborCountryIds": [
+      "643",
+      "804",
+      "616",
+      "440",
+      "428"
+    ]
+  },
+  {
+    "countryId": "804",
+    "countryName": "Ukraine",
+    "centroidLat": 49.186609670808224,
+    "centroidLng": 31.292438527598232,
+    "neighborCountryIds": [
+      "643",
+      "112",
+      "616",
+      "348",
+      "498",
+      "642",
+      "703"
+    ]
+  },
+  {
+    "countryId": "616",
+    "countryName": "Poland",
+    "centroidLat": 52.13407363786625,
+    "centroidLng": 19.343765521406297,
+    "neighborCountryIds": [
+      "643",
+      "112",
+      "804",
+      "440",
+      "276",
+      "703",
+      "203"
+    ]
+  },
+  {
+    "countryId": "040",
+    "countryName": "Austria",
+    "centroidLat": 47.62095064753285,
+    "centroidLng": 14.060187611718646,
+    "neighborCountryIds": [
+      "348",
+      "276",
+      "756",
+      "380",
+      "705",
+      "703",
+      "203"
+    ]
+  },
+  {
+    "countryId": "348",
+    "countryName": "Hungary",
+    "centroidLat": 47.203540347386706,
+    "centroidLng": 19.34303887071611,
+    "neighborCountryIds": [
+      "804",
+      "040",
+      "642",
+      "191",
+      "705",
+      "703",
+      "688"
+    ]
+  },
+  {
+    "countryId": "498",
+    "countryName": "Moldova",
+    "centroidLat": 47.19636858392286,
+    "centroidLng": 28.4197316411926,
+    "neighborCountryIds": [
+      "804",
+      "642"
+    ]
+  },
+  {
+    "countryId": "642",
+    "countryName": "Romania",
+    "centroidLat": 45.85337950200309,
+    "centroidLng": 24.95407532106762,
+    "neighborCountryIds": [
+      "804",
+      "348",
+      "498",
+      "100",
+      "688"
+    ]
+  },
+  {
+    "countryId": "440",
+    "countryName": "Lithuania",
+    "centroidLat": 55.28275891978371,
+    "centroidLng": 23.888139070035304,
+    "neighborCountryIds": [
+      "643",
+      "112",
+      "616",
+      "428"
+    ]
+  },
+  {
+    "countryId": "428",
+    "countryName": "Latvia",
+    "centroidLat": 56.817275563585156,
+    "centroidLng": 24.839360592335915,
+    "neighborCountryIds": [
+      "643",
+      "112",
+      "440",
+      "233"
+    ]
+  },
+  {
+    "countryId": "233",
+    "countryName": "Estonia",
+    "centroidLat": 58.64139230592771,
+    "centroidLng": 25.830578101202892,
+    "neighborCountryIds": [
+      "643",
+      "428"
+    ]
+  },
+  {
+    "countryId": "276",
+    "countryName": "Germany",
+    "centroidLat": 51.077444092791815,
+    "centroidLng": 10.270397238175592,
+    "neighborCountryIds": [
+      "250",
+      "616",
+      "040",
+      "756",
+      "442",
+      "056",
+      "528",
+      "208",
+      "203"
+    ]
+  },
+  {
+    "countryId": "100",
+    "countryName": "Bulgaria",
+    "centroidLat": 42.7559432839268,
+    "centroidLng": 25.187509595656323,
+    "neighborCountryIds": [
+      "642",
+      "300",
+      "792",
+      "807",
+      "688"
+    ]
+  },
+  {
+    "countryId": "300",
+    "countryName": "Greece",
+    "centroidLat": 39.03665401364332,
+    "centroidLng": 22.72007081060726,
+    "neighborCountryIds": [
+      "100",
+      "792",
+      "008",
+      "807"
+    ]
+  },
+  {
+    "countryId": "792",
+    "countryName": "Turkey",
+    "centroidLat": 39.145094075147405,
+    "centroidLng": 35.11717909092672,
+    "neighborCountryIds": [
+      "368",
+      "364",
+      "760",
+      "051",
+      "100",
+      "300",
+      "268"
+    ]
+  },
+  {
+    "countryId": "008",
+    "countryName": "Albania",
+    "centroidLat": 41.13444804196395,
+    "centroidLng": 20.033813412836583,
+    "neighborCountryIds": [
+      "300",
+      "807",
+      "499",
+      "name-kosovo"
+    ]
+  },
+  {
+    "countryId": "191",
+    "countryName": "Croatia",
+    "centroidLat": 45.0098474173622,
+    "centroidLng": 16.567328503658622,
+    "neighborCountryIds": [
+      "348",
+      "705",
+      "070",
+      "688",
+      "499"
+    ]
+  },
+  {
+    "countryId": "756",
+    "countryName": "Switzerland",
+    "centroidLat": 46.79282001655209,
+    "centroidLng": 8.115759061149433,
+    "neighborCountryIds": [
+      "250",
+      "040",
+      "276",
+      "380"
+    ]
+  },
+  {
+    "countryId": "442",
+    "countryName": "Luxembourg",
+    "centroidLat": 49.76493278103263,
+    "centroidLng": 5.966117052708055,
+    "neighborCountryIds": [
+      "250",
+      "276",
+      "056"
+    ]
+  },
+  {
+    "countryId": "056",
+    "countryName": "Belgium",
+    "centroidLat": 50.652595886622976,
+    "centroidLng": 4.587689788220876,
+    "neighborCountryIds": [
+      "250",
+      "276",
+      "442",
+      "528"
+    ]
+  },
+  {
+    "countryId": "528",
+    "countryName": "Netherlands",
+    "centroidLat": 52.29287475775403,
+    "centroidLng": 5.4998938360794805,
+    "neighborCountryIds": [
+      "276",
+      "056"
+    ]
+  },
+  {
+    "countryId": "620",
+    "countryName": "Portugal",
+    "centroidLat": 39.60724729769303,
+    "centroidLng": -8.061099069676905,
+    "neighborCountryIds": [
+      "724"
+    ]
+  },
+  {
+    "countryId": "724",
+    "countryName": "Spain",
+    "centroidLat": 40.32070054853027,
+    "centroidLng": -3.6242334452591187,
+    "neighborCountryIds": [
+      "250",
+      "620"
+    ]
+  },
+  {
+    "countryId": "372",
+    "countryName": "Ireland",
+    "centroidLat": 53.17177955737033,
+    "centroidLng": -8.017007679860992,
+    "neighborCountryIds": [
+      "826"
+    ]
+  },
+  {
+    "countryId": "540",
+    "countryName": "New Caledonia",
+    "centroidLat": -21.26095047398029,
+    "centroidLng": 165.52837696708968,
+    "neighborCountryIds": []
+  },
+  {
+    "countryId": "090",
+    "countryName": "Solomon Is.",
+    "centroidLat": -8.852332345908787,
+    "centroidLng": 159.9594818531804,
+    "neighborCountryIds": []
+  },
+  {
+    "countryId": "554",
+    "countryName": "New Zealand",
+    "centroidLat": -41.55107392488395,
+    "centroidLng": 172.95140783891412,
+    "neighborCountryIds": []
+  },
+  {
+    "countryId": "036",
+    "countryName": "Australia",
+    "centroidLat": -25.763130036769137,
+    "centroidLng": 134.31409394003165,
+    "neighborCountryIds": []
+  },
+  {
+    "countryId": "144",
+    "countryName": "Sri Lanka",
+    "centroidLat": 7.699504106505523,
+    "centroidLng": 80.66790964699014,
+    "neighborCountryIds": []
+  },
+  {
+    "countryId": "156",
+    "countryName": "China",
+    "centroidLat": 36.683402772207494,
+    "centroidLng": 103.45254772896584,
+    "neighborCountryIds": [
+      "398",
+      "643",
+      "418",
+      "104",
+      "704",
+      "408",
+      "496",
+      "356",
+      "064",
+      "524",
+      "586",
+      "004",
+      "762",
+      "417"
+    ]
+  },
+  {
+    "countryId": "158",
+    "countryName": "Taiwan",
+    "centroidLat": 23.73902040290787,
+    "centroidLng": 120.97155366687659,
+    "neighborCountryIds": []
+  },
+  {
+    "countryId": "380",
+    "countryName": "Italy",
+    "centroidLat": 42.67076391434157,
+    "centroidLng": 12.268972406754907,
+    "neighborCountryIds": [
+      "250",
+      "040",
+      "756",
+      "705"
+    ]
+  },
+  {
+    "countryId": "208",
+    "countryName": "Denmark",
+    "centroidLat": 56.05913526739813,
+    "centroidLng": 9.885527215595431,
+    "neighborCountryIds": [
+      "276"
+    ]
+  },
+  {
+    "countryId": "826",
+    "countryName": "United Kingdom",
+    "centroidLat": 53.808520796489965,
+    "centroidLng": -2.7596849127502807,
+    "neighborCountryIds": [
+      "372"
+    ]
+  },
+  {
+    "countryId": "352",
+    "countryName": "Iceland",
+    "centroidLat": 65.07979964149162,
+    "centroidLng": -18.765099306660964,
+    "neighborCountryIds": []
+  },
+  {
+    "countryId": "031",
+    "countryName": "Azerbaijan",
+    "centroidLat": 40.21948811293478,
+    "centroidLng": 47.55504063475462,
+    "neighborCountryIds": [
+      "643",
+      "364",
+      "051",
+      "268"
+    ]
+  },
+  {
+    "countryId": "268",
+    "countryName": "Georgia",
+    "centroidLat": 42.167901160020655,
+    "centroidLng": 43.49912972638795,
+    "neighborCountryIds": [
+      "643",
+      "051",
+      "792",
+      "031"
+    ]
+  },
+  {
+    "countryId": "608",
+    "countryName": "Philippines",
+    "centroidLat": 11.719704000672909,
+    "centroidLng": 122.93757156238387,
+    "neighborCountryIds": []
+  },
+  {
+    "countryId": "458",
+    "countryName": "Malaysia",
+    "centroidLat": 3.7463797125046843,
+    "centroidLng": 109.69961531251074,
+    "neighborCountryIds": [
+      "360",
+      "764",
+      "096"
+    ]
+  },
+  {
+    "countryId": "096",
+    "countryName": "Brunei",
+    "centroidLat": 4.690141346078837,
+    "centroidLng": 114.915104486191,
+    "neighborCountryIds": [
+      "458"
+    ]
+  },
+  {
+    "countryId": "705",
+    "countryName": "Slovenia",
+    "centroidLat": 46.1259173387723,
+    "centroidLng": 14.934228566517884,
+    "neighborCountryIds": [
+      "040",
+      "348",
+      "191",
+      "380"
+    ]
+  },
+  {
+    "countryId": "246",
+    "countryName": "Finland",
+    "centroidLat": 64.26099646498538,
+    "centroidLng": 26.141602718872342,
+    "neighborCountryIds": [
+      "643",
+      "578",
+      "752"
+    ]
+  },
+  {
+    "countryId": "703",
+    "countryName": "Slovakia",
+    "centroidLat": 48.73326194063438,
+    "centroidLng": 19.497522406155014,
+    "neighborCountryIds": [
+      "804",
+      "616",
+      "040",
+      "348",
+      "203"
+    ]
+  },
+  {
+    "countryId": "203",
+    "countryName": "Czechia",
+    "centroidLat": 49.77975008637941,
+    "centroidLng": 15.342931449194108,
+    "neighborCountryIds": [
+      "616",
+      "040",
+      "276",
+      "703"
+    ]
+  },
+  {
+    "countryId": "232",
+    "countryName": "Eritrea",
+    "centroidLat": 15.427257290521629,
+    "centroidLng": 38.68853071393093,
+    "neighborCountryIds": [
+      "729",
+      "231",
+      "262"
+    ]
+  },
+  {
+    "countryId": "392",
+    "countryName": "Japan",
+    "centroidLat": 37.53674100507462,
+    "centroidLng": 137.71227776329422,
+    "neighborCountryIds": []
+  },
+  {
+    "countryId": "600",
+    "countryName": "Paraguay",
+    "centroidLat": -23.2296961601115,
+    "centroidLng": -58.43176848852881,
+    "neighborCountryIds": [
+      "032",
+      "076",
+      "068"
+    ]
+  },
+  {
+    "countryId": "887",
+    "countryName": "Yemen",
+    "centroidLat": 15.922142685237882,
+    "centroidLng": 47.515104517608435,
+    "neighborCountryIds": [
+      "512",
+      "682"
+    ]
+  },
+  {
+    "countryId": "682",
+    "countryName": "Saudi Arabia",
+    "centroidLat": 24.089289274627895,
+    "centroidLng": 44.641346547075536,
+    "neighborCountryIds": [
+      "400",
+      "784",
+      "634",
+      "414",
+      "368",
+      "512",
+      "887"
+    ]
+  },
+  {
+    "countryId": "010",
+    "countryName": "Antarctica",
+    "centroidLat": -84.9686418021817,
+    "centroidLng": 82.50704525624919,
+    "neighborCountryIds": []
+  },
+  {
+    "countryId": "name-n-cyprus",
+    "countryName": "N. Cyprus",
+    "centroidLat": 35.27477083558061,
+    "centroidLng": 33.55703152835618,
+    "neighborCountryIds": [
+      "196"
+    ]
+  },
+  {
+    "countryId": "196",
+    "countryName": "Cyprus",
+    "centroidLat": 34.907490889560506,
+    "centroidLng": 33.03913550626353,
+    "neighborCountryIds": [
+      "name-n-cyprus"
+    ]
+  },
+  {
+    "countryId": "504",
+    "countryName": "Morocco",
+    "centroidLat": 29.815372044664567,
+    "centroidLng": -8.693667945346007,
+    "neighborCountryIds": [
+      "732",
+      "012"
+    ]
+  },
+  {
+    "countryId": "818",
+    "countryName": "Egypt",
+    "centroidLat": 26.47492982089098,
+    "centroidLng": 29.860980187510144,
+    "neighborCountryIds": [
+      "729",
+      "376",
+      "434"
+    ]
+  },
+  {
+    "countryId": "434",
+    "countryName": "Libya",
+    "centroidLat": 26.988217377314836,
+    "centroidLng": 18.030449428057654,
+    "neighborCountryIds": [
+      "729",
+      "148",
+      "562",
+      "788",
+      "012",
+      "818"
+    ]
+  },
+  {
+    "countryId": "231",
+    "countryName": "Ethiopia",
+    "centroidLat": 8.645911998905715,
+    "centroidLng": 39.55980522631151,
+    "neighborCountryIds": [
+      "706",
+      "404",
+      "729",
+      "232",
+      "262",
+      "name-somaliland",
+      "728"
+    ]
+  },
+  {
+    "countryId": "262",
+    "countryName": "Djibouti",
+    "centroidLat": 11.772803533017383,
+    "centroidLng": 42.49723339364747,
+    "neighborCountryIds": [
+      "232",
+      "231",
+      "name-somaliland"
+    ]
+  },
+  {
+    "countryId": "name-somaliland",
+    "countryName": "Somaliland",
+    "centroidLat": 9.761170977688773,
+    "centroidLng": 46.23168887384504,
+    "neighborCountryIds": [
+      "706",
+      "231",
+      "262"
+    ]
+  },
+  {
+    "countryId": "800",
+    "countryName": "Uganda",
+    "centroidLat": 1.2950906449111175,
+    "centroidLng": 32.3574068878029,
+    "neighborCountryIds": [
+      "834",
+      "180",
+      "404",
+      "646",
+      "728"
+    ]
+  },
+  {
+    "countryId": "646",
+    "countryName": "Rwanda",
+    "centroidLat": -2.013708798309977,
+    "centroidLng": 29.918680768530237,
+    "neighborCountryIds": [
+      "834",
+      "180",
+      "108",
+      "800"
+    ]
+  },
+  {
+    "countryId": "070",
+    "countryName": "Bosnia and Herz.",
+    "centroidLat": 44.17881096605585,
+    "centroidLng": 17.822903050128687,
+    "neighborCountryIds": [
+      "191",
+      "688",
+      "499"
+    ]
+  },
+  {
+    "countryId": "807",
+    "countryName": "Macedonia",
+    "centroidLat": 41.60575552260215,
+    "centroidLng": 21.696134119117193,
+    "neighborCountryIds": [
+      "100",
+      "300",
+      "008",
+      "688",
+      "name-kosovo"
+    ]
+  },
+  {
+    "countryId": "688",
+    "countryName": "Serbia",
+    "centroidLat": 44.22324891480765,
+    "centroidLng": 20.836941524209973,
+    "neighborCountryIds": [
+      "348",
+      "642",
+      "100",
+      "191",
+      "070",
+      "807",
+      "499",
+      "name-kosovo"
+    ]
+  },
+  {
+    "countryId": "499",
+    "countryName": "Montenegro",
+    "centroidLat": 42.787804054911994,
+    "centroidLng": 19.285440256715702,
+    "neighborCountryIds": [
+      "008",
+      "191",
+      "070",
+      "688",
+      "name-kosovo"
+    ]
+  },
+  {
+    "countryId": "name-kosovo",
+    "countryName": "Kosovo",
+    "centroidLat": 42.578959996822974,
+    "centroidLng": 20.895990504281798,
+    "neighborCountryIds": [
+      "008",
+      "807",
+      "688",
+      "499"
+    ]
+  },
+  {
+    "countryId": "780",
+    "countryName": "Trinidad and Tobago",
+    "centroidLat": 10.428471974301756,
+    "centroidLng": -61.33143748403786,
+    "neighborCountryIds": []
+  },
+  {
+    "countryId": "728",
+    "countryName": "S. Sudan",
+    "centroidLat": 7.293085433973486,
+    "centroidLng": 30.201985248841506,
+    "neighborCountryIds": [
+      "180",
+      "404",
+      "729",
+      "140",
+      "231",
+      "800"
+    ]
+  }
+]
