@@ -18,6 +18,7 @@ public class TerritoryService {
     private final TerritoryRepository territoryRepository;
     private final PlayerRepository playerRepository;
     private final TerritoryAdjacencyService adjacencyService;
+    private final GameResourceService gameResourceService;
 
     public List<Territory> findAll() {
         return territoryRepository.findAll();
@@ -49,6 +50,8 @@ public class TerritoryService {
         territory.setOwner(player);
         territory.setClaimedAt(LocalDateTime.now());
         territory.setPopulation(200);
-        return territoryRepository.save(territory);
+        Territory claimed = territoryRepository.save(territory);
+        gameResourceService.creditTerritoryResources(playerId, claimed);
+        return claimed;
     }
 }

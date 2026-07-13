@@ -25,6 +25,7 @@ public class PlayerService {
     private final PlayerRepository playerRepository;
     private final GameSessionRepository gameSessionRepository;
     private final TerritoryRepository territoryRepository;
+    private final GameResourceService gameResourceService;
 
     public Player create(String displayName) {
         GameSession session = gameSessionRepository.findFirstByStatus(GameSessionStatus.ACTIVE)
@@ -63,5 +64,6 @@ public class PlayerService {
         starting.setClaimedAt(LocalDateTime.now());
         starting.setPopulation(1000);
         territoryRepository.save(starting);
+        gameResourceService.creditTerritoryResources(player.getId(), starting);
     }
 }

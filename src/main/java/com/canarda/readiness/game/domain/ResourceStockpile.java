@@ -21,15 +21,13 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-import java.time.LocalDateTime;
 import java.util.HashMap;
 import java.util.Map;
 
 /**
- * A player's accumulated resource wallet. Amounts stored here are only ever a "settled"
- * baseline as of lastSettledAt - the true current amount is derived on read by adding
- * (territory yield rates * minutes elapsed) rather than written on every tick. See
- * GameResourceService.
+ * A player's resource wallet. Credited in one-time lump sums whenever they capture a
+ * territory (its resource amounts get added here) - not a passively ticking value, so
+ * this is always the exact, already-settled total. No derive-on-read math needed.
  */
 @Entity
 @Table(name = "resource_stockpiles")
@@ -54,7 +52,5 @@ public class ResourceStockpile {
     @MapKeyEnumerated(EnumType.STRING)
     @Column(name = "amount")
     @Builder.Default
-    private Map<ResourceType, Double> settledAmounts = new HashMap<>();
-
-    private LocalDateTime lastSettledAt;
+    private Map<ResourceType, Integer> amounts = new HashMap<>();
 }
