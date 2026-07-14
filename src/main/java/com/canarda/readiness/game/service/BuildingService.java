@@ -24,6 +24,10 @@ public class BuildingService {
         return buildingRepository.findByTerritoryId(territoryId);
     }
 
+    public List<Building> findAll() {
+        return buildingRepository.findAll();
+    }
+
     public Building construct(Long territoryId, Long playerId, BuildingType type) {
         Territory territory = territoryRepository.findById(territoryId)
                 .orElseThrow(() -> new ResourceNotFoundException("Territory not found: " + territoryId));

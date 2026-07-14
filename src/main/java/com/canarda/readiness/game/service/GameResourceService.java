@@ -29,20 +29,19 @@ public class GameResourceService {
         return getOrCreateStockpile(playerId).getAmounts();
     }
 
-    /** Adds a captured territory's resource amounts to the player's wallet, once. */
     @Transactional
     public ResourceStockpile creditTerritoryResources(Long playerId, Territory territory) {
+        return credit(playerId, territory.getResources());
+    }
+
+    @Transactional
+    public ResourceStockpile credit(Long playerId, Map<ResourceType, Integer> amounts) {
         ResourceStockpile stockpile = getOrCreateStockpile(playerId);
-        territory.getResources().forEach((type, amount) -> stockpile.getAmounts().merge(type, amount, Integer::sum));
+        amounts.forEach((type, amount) -> stockpile.getAmounts().merge(type, amount, Integer::sum));
         return stockpileRepository.save(stockpile);
     }
 
-    /**
-     * Wood, Stone, and Food are always spendable. Metal/Oil/Gunpowder are captured into
-     * the wallet the same as any other resource, but can't be SPENT until the player owns
-     * the matching extraction building somewhere in their empire (Mine/Oil Rig/Gunpowder
-     * Factory) - a wallet-level spending gate, not a capture-time one.
-     */
+    /** Metal/Oil/Gunpowder can be held but not spent until the matching extraction building exists. */
     @Transactional(readOnly = true)
     public boolean canSpend(Long playerId, ResourceType type) {
         return switch (type) {
@@ -53,12 +52,7 @@ public class GameResourceService {
         };
     }
 
-    /**
-     * Validates spendability + sufficient balance for every line of the cost, then deducts
-     * all of it. Throws IllegalStateException (mapped to 409 by the existing
-     * GlobalExceptionHandler) on the first failure, before anything is deducted - either
-     * the whole cost is paid or none of it is.
-     */
+    /** All-or-nothing: validates every cost line before deducting any of them. */
     @Transactional
     public void spend(Long playerId, Map<ResourceType, Integer> cost) {
         ResourceStockpile stockpile = getOrCreateStockpile(playerId);

@@ -38,3 +38,6 @@ build/
 *.keystore
 .env
 *.log
+
+### Local notes ###
+CLAUDE.md

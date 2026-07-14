@@ -5,11 +5,7 @@ import com.canarda.readiness.game.domain.ResourceType;
 
 import java.util.Map;
 
-/**
- * A building's construction cost and what it unlocks. Static game-design data - not
- * player-editable, so it lives as code rather than a seeded table, same rationale as
- * why territory adjacency is a checked-in resource file rather than computed at runtime.
- */
+/** A building's construction cost and what it unlocks - static data, not a seeded table. */
 public record BuildingBlueprint(
         BuildingType type,
         Map<ResourceType, Integer> cost,

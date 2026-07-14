@@ -24,11 +24,7 @@ import lombok.Setter;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * A player's resource wallet. Credited in one-time lump sums whenever they capture a
- * territory (its resource amounts get added here) - not a passively ticking value, so
- * this is always the exact, already-settled total. No derive-on-read math needed.
- */
+/** A player's resource wallet - credited in one-time lump sums on capture, not a passive tick. */
 @Entity
 @Table(name = "resource_stockpiles")
 @Getter

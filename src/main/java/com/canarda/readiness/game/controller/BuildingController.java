@@ -33,6 +33,11 @@ public class BuildingController {
         return buildingService.findByTerritory(territoryId).stream().map(BuildingResponse::from).toList();
     }
 
+    @GetMapping("/api/game/buildings")
+    public List<BuildingResponse> findAll() {
+        return buildingService.findAll().stream().map(BuildingResponse::from).toList();
+    }
+
     @PostMapping("/api/game/territories/{territoryId}/buildings")
     public ResponseEntity<BuildingResponse> construct(
             @PathVariable Long territoryId,

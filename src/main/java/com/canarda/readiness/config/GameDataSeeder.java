@@ -41,8 +41,7 @@ public class GameDataSeeder implements CommandLineRunner {
         }
     }
 
-    // Deterministic per-territory: same country always gets the same starting resources
-    // across a fresh reseed, rather than shuffling every time the table is repopulated.
+    // Seeded by countryId so a reseed always gives the same country the same starting resources.
     private Map<ResourceType, Integer> startingResourcesFor(String countryId) {
         Random random = new Random(countryId.hashCode());
         Map<ResourceType, Integer> resources = new HashMap<>();
