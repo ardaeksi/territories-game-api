@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/api/game/players/{playerId}/equipment")
 @RequiredArgsConstructor
-public class EquipmentController {
+public class GameEquipmentController {
 
     private final GameEquipmentService gameEquipmentService;
 
